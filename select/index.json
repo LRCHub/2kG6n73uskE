@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憂いの化け物",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-25T13:17:28.216046Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憂いの化け物",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_憂いの化け物_DUSTCELL.txt"
+    }
+  ]
+}
